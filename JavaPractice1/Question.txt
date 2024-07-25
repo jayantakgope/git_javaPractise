@@ -1,0 +1,11 @@
+Question Bank for Practice: 
+
+1. Make a calculator app
+
+2. Swap two numbers
+
+3. Example of if-else
+
+4. Example of switch condition
+
+5. Example of for loop
