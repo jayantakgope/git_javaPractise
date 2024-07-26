@@ -9,3 +9,4 @@ Question Bank for Practice:
 4. Example of switch condition
 
 5. Example of for loop
+// 1 includes 3,4,5 points, 2 point is done
